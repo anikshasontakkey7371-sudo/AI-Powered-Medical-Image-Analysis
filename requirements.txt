@@ -1,0 +1,15 @@
+# Core Deep Learning framework for training and inference
+tensorflow>=2.15.0
+
+# Scientific computing and multidimensional array operations
+numpy>=1.24.0
+
+# Image loading, transformation, and validation
+pillow>=10.0.0
+
+# Plotting metrics, loss curves, and diagnostic visualizations
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Evaluation metrics, confusion matrix, and dataset stratification utilities
+scikit-learn>=1.3.0
